@@ -69,7 +69,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 📬 Contact
 
-For queries or contributions, reach out at [your-email@example.com](mailto:your-email@example.com) or visit the GitHub repository.
+For queries or contributions, reach out at [your-email@example.com](mailto:chakrabortysandip150@gmail.com) or visit the GitHub repository.
 
 ---
 
