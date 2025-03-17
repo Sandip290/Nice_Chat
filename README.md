@@ -67,10 +67,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - AI-powered Meeting Summarization
 - Custom Meeting Room Themes
 
-📬 Contact
-
-For queries or contributions, reach out at [your-email@example.com](mailto:chakrabortysandip150@gmail.com) or visit the GitHub repository.
-
 ---
 
 Enjoy seamless video conferencing with NiceChat! 🎥🚀
