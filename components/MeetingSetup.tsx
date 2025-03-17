@@ -6,7 +6,6 @@ import {
   useCall,
   useCallStateHooks,
 } from '@stream-io/video-react-sdk';
-
 import Alert from './Alert';
 import { Button } from './ui/button';
 
